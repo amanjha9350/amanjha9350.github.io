@@ -1,1 +1,0 @@
-# BHRIGU-ACADEMY
