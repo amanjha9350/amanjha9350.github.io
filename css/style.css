@@ -555,7 +555,12 @@ a:focus {
 .footer_section a {
   color: #fdfdfe;
 }
-
+.heading-courses{
+  font-family: 'Poppins', sans-serif;
+  padding: 20px 10px;
+  font-weight: 500;
+  color: #151516;
+}
 
 
 /* end footer section*/
